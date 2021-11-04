@@ -7,6 +7,14 @@ body
     margin: 0;
     padding: 0;
 }
+#imagen
+{
+    width: 6em;
+    height: 1.5em;
+    margin-left: 2em;
+    margin-top: 0.5em;
+
+}
 #cabecera
 {
     background:#33a;
