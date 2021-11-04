@@ -1,0 +1,7 @@
+Esta es la historia de Eduardo
+Eduardo tiene 33 años y nació en Perú
+Hoy es martes.
+Son las 11:54 am.
+Temperatura: 28°C.
+Tengo pensado culminar el curso de Front end.
+Pero primero pienso recuperarme de una infeccion a la garganta que no me pasa.
