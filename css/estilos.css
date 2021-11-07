@@ -43,3 +43,15 @@ body
 {
     font-size: 20px;
 }
+
+#estioFooter
+{
+    font-family:"sans-serif";
+    color: blanchedalmond;
+    margin: 0px 150px 0px 150px;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    font-size: 15px;
+    background: #33a;
+    text-align: center;
+
+}
